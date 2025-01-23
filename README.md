@@ -81,7 +81,7 @@ This is a personal portfolio website designed to showcase Ayushi Raut's skills, 
 ## Contact
 For any queries or feedback, please reach out to:
 - **Email**: [ayushiraut98@gmail.com](mailto:ayushiraut98@gmail.com)
-- **Phone**: +91 8530007230
+- **Phone**: +91 853000*
 - **LinkedIn**: [Ayushi Raut](https://www.linkedin.com/in/ayushi-raut-434118252/)
 - **GitHub**: [ayushiraut01](https://github.com/ayushiraut01)
 
